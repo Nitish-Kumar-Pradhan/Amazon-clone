@@ -276,6 +276,8 @@
     text-decoration: none;
     color: #007285;
 }
+
+
 .shop-section{
     display: flex;
     justify-content: space-evenly;
@@ -389,7 +391,7 @@
 .box-2{
     background-image: url(./Assets/bg-ad2main.png);
     height: 510px;
-    width: 47%;
+    width: 47.7%;
     background-size: cover;
     transition: all .2s linear;
     border-bottom-left-radius: .5rem;
