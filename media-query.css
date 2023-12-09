@@ -1,0 +1,855 @@
+@media screen and (max-width: 1440px) {
+    .nav-search{
+        width: 50% ;
+    }
+    .panel-hide1{
+        display: none;
+    }
+    .hero-section{
+        height: 300px;
+    }
+    .hero-mes{
+        margin-top: 230px;
+        width: 1200px;
+    }
+    .shop-section{
+        margin: 0px 0px;
+    }
+    .hiden-box{
+        display: block;
+    }
+    .box{
+        width: 29%;
+    }
+    .box-2{
+        height: 510px;
+        width: 61.5%;
+        border-radius: .5rem;
+        margin-top: 20px;
+    }
+    .gst-box1{
+        background-color: #fff;
+        display: block;
+        height: 170px;
+        width: 29%;
+        display: flex;
+        align-self: flex-end;
+        border-radius: .5rem;
+    }
+    .box-hiden{
+        display: none;
+    }
+    .footer-lang-1{
+        padding: 0px 200px;
+    }
+    .foot-panel2{
+        padding: 50px 200px;
+    }
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 1241px) {
+    .nav-search{
+        width: 40% ;
+    }
+
+    .nav-logo{
+        height: 2.8rem;
+        width: 5.5rem;
+    }
+    .logo{
+        height: 3.2rem;
+        width: 5.4rem;
+    }
+
+    .nav-address{
+        width: 8.6rem;
+    }
+    .add-icon{
+        font-size: 1.7rem;
+        padding-top: 1rem;
+    }
+    .add-text-1{
+        font-size: 0.85rem;  
+        font-weight: 700;
+    }
+    .add-text-2{
+        font-size: 0.75rem;
+        padding-left: 2rem;
+        position: relative;
+        bottom: 0.6rem;
+    }
+
+    .lang{
+        top: .6rem;
+    }
+    .lang-select{
+        font-size: 1rem ;
+        height: 25px;
+        width: 48px;
+    }
+    .lang-icon{
+        height: 1rem;
+        width: 1.5rem;
+        border-radius: .6px;
+    }
+
+    .nav-signin span {
+        font-size: .8rem;
+    }
+
+    .nav-order span {
+        font-size: .8rem;
+    }
+    .nav-second{
+        color: #fff;
+        font-size: 1rem;
+        font-weight: 600;
+    }
+
+    .nav-cart{
+        height: 2.5rem;
+        width: max-content;
+    }
+    .cart-text{
+        font-size: .9rem;
+        font-weight: 600;
+        padding-top: 22px;
+    }
+
+    .panel-hide1{
+        display: none;
+    }
+    .panel-hide2{
+        display: none;
+    }
+    .hero-section{
+        height: 240px;
+    }
+    .hero-mes{
+        margin-top: 170px;
+        width: 900px;
+    }
+    .shop-section{
+        margin: 0px 0px;
+    }
+    .hiden-box{
+        display: block;
+    }
+    .box{
+        width: 32%;
+    }
+    .box-2{
+        height: 510px;
+        width: 65%;
+        border-radius: .5rem;
+        margin-top: 20px;
+    }
+    .gst-box1{
+        background-color: #fff;
+        display: block;
+        height: 170px;
+        width: 32%;
+        display: flex;
+        align-self: flex-end;
+        border-radius: .5rem;
+    }
+    .box-hiden{
+        display: none;
+    }
+    .footer-lang-1{
+        padding: 0px 50px;
+    }
+    .foot-panel2{
+        padding: 50px 100px;
+    }
+    .lang-hiden{
+        display: none;
+    }
+    .lang-hiden-box{
+        display: block;
+    }
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 991px) {
+    .nav-search{
+        width: 40% ;
+        height: 35px;
+    }
+
+    .nav-logo{
+        height: 2.2rem;
+        width: 4rem;
+    }
+    .logo{
+        height: 2.5rem;
+        width: 4.3rem;
+    }
+
+    .nav-address{
+        width: 7rem;
+    }
+    .add-icon{
+        font-size: 1.5rem;
+        padding-top: 1rem;
+        padding-right: 0.2rem;
+    }
+    .add-text-1{
+        font-size: 0.7rem;  
+        font-weight: 700;
+    }
+    .add-text-2{
+        font-size: 0.6rem;
+        padding-left: 1.5rem;
+        position: relative;
+        bottom: 0.6rem;
+    }
+
+    .lang{
+        top: .6rem;
+    }
+    .lang-select{
+        font-size: .7rem ;
+        height: 20px;
+        width: 40px;
+    }
+    .lang-icon{
+        height: .7rem;
+        width: 1rem;
+        border-radius: .6px;
+    }
+
+    .nav-signin span {
+        font-size: .6rem;
+    }
+
+    .nav-order span {
+        font-size: .6rem;
+    }
+    .nav-second{
+        color: #fff;
+        font-size: .8rem;
+        font-weight: 600;
+    }
+
+    .nav-cart{
+        height: 2rem;
+        width: max-content;
+    }
+    .cart-text{
+        font-size: .7rem;
+        font-weight: 600;
+        padding-top: 18px;
+    }
+
+    .panel-hide1{
+        display: none;
+    }
+    .panel-hide2{
+        display: none;
+    }
+    .panel-hide3{
+        display: none;
+    }
+    .hero-section{
+        height: 240px;
+    }
+    .hero-mes{
+        margin-top: 170px;
+        width: 800px;
+    }
+    .shop-section{
+        margin: 0px 0px;
+    }
+    .hiden-box{
+        display: none;
+    }
+    .box{
+        width: 47%;
+        border-radius: .5rem;
+    }
+    .box-2{
+        height: 510px;
+        width: 96%;
+        border-radius: .5rem;
+        margin-top: 20px;
+    }
+
+    .box2{
+        margin-top: 20px;
+        border-radius: .5rem;
+    }
+
+    .ad:hover{
+        height: 130px;
+    }
+
+    .gst-box1{
+        display: none;
+    }
+
+    .box-hiden{
+        display: block;
+    }
+    .box-gst{
+        height: 170px;
+        width: 47%;
+        display: flex;
+        align-self: flex-start;
+        border-radius: .5rem;
+    }
+    .footer-lang-1{
+        padding: 0px 50px;
+    }
+    .foot-panel2{
+        padding: 50px 100px;
+    }
+    .lang-hiden{
+        display: none;
+    }
+    .lang-hiden-box{
+        display: block;
+    }
+}
+
+
+
+
+
+
+@media screen and (max-width: 768px) {
+    .nav-search{
+        width: 30% ;
+        height: 35px;
+    }
+
+    .nav-logo{
+        height: 2.2rem;
+        width: 4rem;
+    }
+    .logo{
+        height: 2.5rem;
+        width: 4.3rem;
+    }
+
+    .nav-address{
+        width: 6.6rem;
+    }
+    .add-icon{
+        font-size: 1.3rem;
+        padding-top: .8rem;
+        padding-right: 0.2rem;
+    }
+    .add-text-1{
+        font-size: 0.65rem;  
+        font-weight: 700;
+    }
+    .add-text-2{
+        font-size: 0.55rem;
+        padding-left: 1.5rem;
+        position: relative;
+        bottom: 0.6rem;
+    }
+
+    .lang{
+        top: .6rem;
+    }
+    .lang-select{
+        font-size: .6rem ;
+        height: 15px;
+        width: 35px;
+    }
+    .lang-icon{
+        height: .7rem;
+        width: 1rem;
+        border-radius: .6px;
+    }
+
+    .nav-signin span {
+        font-size: .6rem;
+    }
+
+    .nav-order span {
+        font-size: .6rem;
+    }
+    .nav-second{
+        color: #fff;
+        font-size: .8rem;
+        font-weight: 600;
+    }
+
+    .nav-cart{
+        height: 2rem;
+        width: max-content;
+    }
+    .cart-text{
+        font-size: .7rem;
+        font-weight: 600;
+        padding-top: 18px;
+    }
+
+    .panel-hide1{
+        display: none;
+    }
+    .panel-hide2{
+        display: none;
+    }
+    .panel-hide3{
+        display: none;
+    }
+    .panel-hide4{
+        display: none;
+    }
+    .hero-section{
+        height: 180px;
+    }
+    .hero-mes{
+        margin-top: 130px;
+        font-size: .7rem;
+        width: 600px;
+        height: 30px;
+    }
+    .shop-section{
+        margin: 0px 0px;
+    }
+    .hiden-box{
+        display: none;
+    }
+    .box{
+        height: 390px;
+        width: 40%;
+    }
+    .ad-2-link{
+        left: 20px;
+        top: 280px;
+        font-size: .8rem;
+    }
+    .box-2{
+        height: 390px;
+        width: 87%;
+        border-radius: .5rem;
+        margin-top: 20px;
+    }
+    .card-text{
+        font-size: 1rem;
+        font-weight: 600;
+        margin: 1rem .9rem .5rem 1rem;
+    }
+    .box-a{
+        height: 120px;
+    }
+    .box-adds{
+        height: max-content;
+        margin-left: 2px;
+    }    
+    .ad{
+        height: 90px;
+        padding-bottom: .5rem;
+    }
+    .ad:hover{
+        height: 100px;
+    }
+    .add-text{
+        margin-top: 10px;
+    }
+    .ad-btn{
+        height: 1.2rem;
+        padding: 0 5px;
+        font-size: .5rem;
+        border-radius: 2px;
+    }
+    .ad-text{
+        font-size: 0.6rem;
+        font-weight: 700;
+        padding-left: .2rem;
+    }
+    .box-see-more{
+        font-size: .7rem;
+        padding: 0 0 0 20px;
+        position: relative;
+        top:10px;
+    }
+
+    .box2{
+        margin-top: 20px;
+    }
+
+    .img-mini{
+        width: 80%; 
+    }
+    .minitv-img{
+        margin-top: 1rem;
+        height: 250px;
+    }
+    .box-link-a{
+        font-size: .8rem;
+        padding: 0px 0 0 25px;
+        top: 30px;
+    }
+
+    .gst-box1{
+        display: none;
+    }
+
+    .box-hiden{
+        display: block;
+    }
+    .box-gst{
+        height: 130px;
+        width: 40%;
+        display: flex;
+        align-self: flex-start;
+        border-radius: .5rem;
+    }
+    .gst-img{
+        height: 90px;
+        margin-right: .8rem;
+    }
+    .gst-text{
+        margin: 1rem .9rem .5rem 1rem;
+        font-size: .8rem;
+    }
+    .footer-lang-1{
+        padding: 0px 20px;
+    }
+    .gst-text a{
+        font-size:.8rem;
+    }
+    .foot-panel2{
+        padding: 50px 20px;
+    }
+    .lang-hiden{
+        display: none;
+    }
+    .lang-hiden-box{
+        display: block;
+    }
+}
+
+
+
+
+
+
+@media screen and (max-width: 640px) {
+    .navbar{
+        height: 40px;
+    }    
+    .nav-search{
+        width: 30% ;
+        height: 17px;
+    }
+    .search-select{
+        background-color: #f3f3f3;
+        appearance: none;
+        width: 15px;
+        font-size: .5rem;
+    }
+    .search-icon{
+        width: 30px;
+        font-size: .5rem;
+    } 
+    .search-input{
+        width: 100%;
+        font-size: .5rem;
+    }      
+
+    .nav-logo{
+        height: 1.4rem;
+        width: 3rem;
+    }
+    .logo{
+        height: 1.5rem;
+        width: 3rem;
+    }
+
+    .nav-address{
+        width: 3.5rem;
+    }
+    .add-icon{
+        font-size: .7rem;
+        padding-top: .7rem;
+        padding-right: 0.1rem;
+    }
+    .add-text-1{
+        font-size: 0.35rem;  
+        font-weight: 700;
+    }
+    .add-text-2{
+        font-size: 0.3rem;
+        padding-left: .75rem;
+        position: relative;
+        bottom: 0.3rem;
+    }
+
+    .lang{
+        top: .4rem;
+    }
+    .lang-select{
+        font-size: .5rem ;
+        appearance: none;
+        padding-left: .1rem;
+        height: 10px;
+        width: 15px;
+    }
+    .lang-icon{
+        height: .4rem;
+        width: .6rem;
+        border-radius: .2px;
+    }
+
+    .nav-signin{
+        position: relative;
+        bottom: 3px;
+    }
+    .nav-order{
+        position: relative;
+        bottom: 3px;
+    }
+
+
+    .nav-signin span {
+        font-size: .3rem;
+    }
+
+    .nav-order span {
+        font-size: .3rem;
+    }
+
+    .nav-second{
+        color: #fff;
+        font-size: .4rem;
+        font-weight: 600;
+    }
+
+    .nav-cart{
+        height: 1rem;
+        width: max-content;
+    }
+    .cart-text{
+        font-size: .4rem;
+        font-weight: 600;
+        padding-top: 8px;
+    }
+
+    .panel{
+        height: 16px;
+    }    
+    .all-icon i{
+        font-size: .4rem;
+    } 
+    .all-icon p{
+        font-size: .4rem;
+    }    
+    .panel p{
+        font-size: .4rem;   
+    }
+
+    .panel-hide1{
+        display: none;
+    }
+    .panel-hide2{
+        display: none;
+    }
+    .panel-hide3{
+        display: none;
+    }
+    .panel-hide4{
+        display: none;
+    }
+    .hero-section{
+        height: 110px;
+    }
+    .hero-mes{
+        margin-top: 80px;
+        font-size: .5rem;
+        width: 300px;
+        height: 13px;
+    }
+    .shop-section{
+        margin: 0px 0px;
+    }
+    .hiden-box{
+        display: none;
+    }
+    .box{
+        height: 220px;
+        width: 45%;
+    }
+    .ad-2-link{
+        left: 20px;
+        top: 150px;
+        font-size: .5rem;
+    }
+    .box-2{
+        height: 220px;
+        width: 93%;
+        border-radius: .5rem;
+        margin-top: 20px;
+    }
+    .card-text{
+        font-size: .6rem;
+        font-weight: 600;
+        margin: .5rem .4rem .3rem .5rem;
+    }
+    .box-a{
+        height: 70px;
+    }
+    .box-adds{
+        height: max-content;
+        margin-left: 2px;
+    }    
+    .ad{
+        height: 50px;
+        padding-bottom: .5rem;
+    }
+    .ad:hover{
+        height: 60px;
+    }
+    .add-text{
+        margin-top: 5px;
+    }
+    .ad-btn{
+        height: .65rem;
+        padding: 0 3px;
+        font-size: .3rem;
+        border-radius: 2px;
+    }
+    .ad-text{
+        font-size: 0.4rem;
+        font-weight: 700;
+        padding-left: .2rem;
+    }
+    .box-see-more{
+        font-size: .4rem;
+        padding: 0 0 0 20px;
+        position: relative;
+        top:3px;
+    }
+    .all-box-adds{
+        padding: 0 .5rem;
+    }
+    h2{
+        font-size: .8rem;
+        padding: 10px 0 0 10px;
+    }
+    .box-2-ad p{
+        color: #efefef;
+        font-size: .5rem;
+        padding: 5px 0 0 10px;
+    }
+
+    .box2{
+        margin-top: 20px;
+    }
+
+    .img-mini{
+        width: 80%; 
+    }
+    .minitv-img{
+        margin-top: 1rem;
+        height: 150px;
+    }
+    .box-link-a{
+        font-size: .5rem;
+        padding: 0px 0 0 20px;
+        top: 5px;
+    }
+
+    .gst-box1{
+        display: none;
+    }
+
+    .box-hiden{
+        display: block;
+    }
+    .box-gst{
+        height: 80px;
+        width: 40%;
+        display: flex;
+        align-self: flex-start;
+        border-radius: .5rem;
+    }
+    .gst-img{
+        height: 60px;
+        margin-right: .3rem;
+    }
+    .gst-text{
+        margin: .5rem .4rem .3rem .5rem;
+        font-size: .6rem;
+    }
+    .gst-text a{
+        font-size:.5rem;
+    }
+    
+    .foot-panel1 {
+        height: 30px;
+    }    
+    .foot-panel1 p{
+        font-size: .6rem;
+    }    
+    .footer-lang-1{
+        padding: 0px 20px;
+    }
+    .foot-panel2 p{
+        font-size: .6rem;
+    }    
+    .foot-panel2{
+        padding: 50px 15px;
+    }
+    .foot-panel2 a{
+        font-size: .5rem;
+    }    
+    .lang-hiden{
+        display: none;
+    }
+    .lang-hiden-box{
+        display: block;
+    }
+    .foot-panel2 ul{
+        position: relative;
+        padding-left: 15px !important;
+    }
+    .footer-logo{
+        height: 20px;
+        margin: 30px 0 20px 0;
+    }
+    .lang-sel{
+        margin:0 0 0 70px;
+        border-radius: 4px;
+        padding:  5px;
+    }
+    .select-lang{
+        padding: 2px 25px 2px 10px;
+        font-size: .5rem;
+    }
+    .footer-lang-1 a{
+        padding-left: 10px;
+        font-size: .5rem;
+        opacity: .8;
+    }
+    
+    .footer-lang-2 a{
+        padding-left: 10px;
+        font-size: .5rem;
+        opacity: .8;
+    }
+    .footer-lang{
+        height: 50px;
+    }
+    .footer3{
+        height: 30px;
+        font-size: .4rem;
+    } 
+}
