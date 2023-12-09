@@ -329,7 +329,7 @@
 
 .box-adds{
     height: 200px;
-    width: 48%;
+    width: 47.5%;
     align-self: center;
     margin-left: 5px;
 }
@@ -395,7 +395,7 @@
 .box-2{
     background-image: url(./Assets/bg-ad2main.png);
     height: 510px;
-    width: 47.7%;
+    width: 47%;
     background-size: cover;
     transition: all .2s linear;
     border-bottom-left-radius: .5rem;
